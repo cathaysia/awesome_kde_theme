@@ -24,13 +24,14 @@ KDE 的主题配置一般为：
 
 需要注意的是 `窗口装饰` 内的 `主题默认边框`，如果设置的边框大小和主题边框大小不一样，就会导致程序上部分和下部分错位的情况。
 
-窗口装饰推荐使用 svg 图标而不是 png 图标，因为 png 图表在开启了 `透明模糊` 的情况下可以看到程序四角有模糊的图片。
+窗口装饰推荐使用 svg 图标而不是 png 图标，因为 png 图标在 KDE 开启了 `模糊透明窗口` 的情况下可以看到程序四角有模糊的图片。
+
 
 # 配置主题可能用到的资源：
 
 - Github：https://github.com/topics/plasma-desktop
 - https://store.kde.org/browse/cat/
-- [OCS-URL](https://www.opendesktop.org/p/1136805/) 或/和 [Pling-Stroe](https://www.opendesktop.org/p/1175480/
+- [OCS-URL](https://www.opendesktop.org/p/1136805/) 或/和 [Pling-Stroe](https://www.opendesktop.org/p/1175480/)
 - Discover
 - Kvantum Manager
 - 你的包管理器
@@ -62,6 +63,15 @@ KDE 的主题配置一般为：
 
 - Noto Sans CJK SC：可用用于界面。字体表现很不错
 - Fira Code：可用于 Konsole 和 代码编辑器。连体字看起来听舒服的。
+
+# 观感
+
+观感一般推荐使用 kvantum 设置与主题配套的主题，此外，以下第三方观感也可用：
+
+- [Lightly](https://github.com/Luwx/Lightly) ：一个现代化的观感
+- QtCurve：一个可高度自定义的观感
+
+我个人更喜欢 Lightly ，其次是 Kvantum。
 
 # 一些落选的，但是依然很好看的主题
 - [WhiteSur](https://store.kde.org/p/1398840/)。仿 MacOs Big Sur 的主题，非常大气好看。推荐使用 Github 安装，安装后需要该 `窗口边框`。落选的原因是窗口装饰使用的是 png 图标，程序四角可看到模糊的透明图片，而且窗口装饰和小部件背景颜色不匹配。
