@@ -42,11 +42,11 @@ KDE 的主题配置一般为：
 
 - [Aritim-Light](https://github.com/Mrcuve0/Aritim-Light/tree/master/KDE/lookAndFeel)：这个是我用过最多的一个主题。`KDE` + `GTK` + `Kvantum` 一整套主题。窗口装饰的颜色和窗口背景的颜色一致，看情况非常漂亮，而且也没有滥用颜色和特效。唯一的缺点是高亮字体看不清。这个推荐使用 Discover 安装。
 - [Adapta KDE](https://github.com/PapirusDevelopmentTeam/adapta-kde)。KDE + [GTK](https://github.com/adapta-project/adapta-gtk-theme) 主题。非常有层次感。我觉得在 Gnome 上看起来更好看。
-- [Canta]()
-- [Fluent]()
-- [Materia]()
-- [Qogir]()
-- [Vimix]()
+- [Canta](https://github.com/vinceliuice/Canta-kde)
+- [Fluent](https://github.com/vinceliuice/Fluent-kde)
+- [Materia](https://github.com/PapirusDevelopmentTeam/materia-kde)
+- [Qogir](https://github.com/vinceliuice/Qogir-kde)
+- [Vimix](https://github.com/vinceliuice/vimix-kde)
 
 ## 暗色主题
 - [Aritim-Dark](https://www.pling.com/p/1281836/) 。颜色有点暗，但是整体还是很不错的。
@@ -55,9 +55,9 @@ KDE 的主题配置一般为：
 
 # Kwin 脚本
 
-- [Parachute]()
-- [Quick Tile Enhancements]()
-- [Stick Window Snapping]()
+- [Parachute](https://github.com/tcorreabr/Parachute)
+- [Quick Tile Enhancements](https://github.com/michaelmob/kwin-quick-tile-enhancements)
+- [Stick Window Snapping](https://github.com/Flupp/sticky-window-snapping)
 
 # 图标
 
