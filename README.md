@@ -42,12 +42,22 @@ KDE 的主题配置一般为：
 
 - [Aritim-Light](https://github.com/Mrcuve0/Aritim-Light/tree/master/KDE/lookAndFeel)：这个是我用过最多的一个主题。`KDE` + `GTK` + `Kvantum` 一整套主题。窗口装饰的颜色和窗口背景的颜色一致，看情况非常漂亮，而且也没有滥用颜色和特效。唯一的缺点是高亮字体看不清。这个推荐使用 Discover 安装。
 - [Adapta KDE](https://github.com/PapirusDevelopmentTeam/adapta-kde)。KDE + [GTK](https://github.com/adapta-project/adapta-gtk-theme) 主题。非常有层次感。我觉得在 Gnome 上看起来更好看。
+- [Canta]()
+- [Fluent]()
+- [Materia]()
+- [Qogir]()
+- [Vimix]()
 
 ## 暗色主题
 - [Aritim-Dark](https://www.pling.com/p/1281836/) 。颜色有点暗，但是整体还是很不错的。
 - [Arc KDE](https://www.pling.com/p/1167640/)。颜色非常不错，而且还有配合 `[GTK](https://github.com/horst3180/arc-theme)` 和 `[Firefox](https://github.com/horst3180/arc-firefox-theme)` 使用的主题。这个主题在 Gnome 上非常好看，KDE 上则窗口装饰看起来比较小
 - Breath2。Manjaro 自带的主题，也非常好看，kde + gtk 一套带走。可惜网上没有资源，需要自己提取。
 
+# Kwin 脚本
+
+- [Parachute]()
+- [Quick Tile Enhancements]()
+- [Stick Window Snapping]()
 
 # 图标
 
